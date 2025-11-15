@@ -98,8 +98,8 @@ ai
 
 科技
 
-github热门项目
-gitee热门项目
+github
+gitee
 
 股市
 上交所
